@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # exercise_004
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# rps_flutter
+exercise for rps_flutter
+>>>>>>> 151aecad291e3412c4f8e788a0a5608920e78e9d
